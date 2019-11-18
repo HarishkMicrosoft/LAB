@@ -1,0 +1,27 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_VMO7222TA001_name": {
+            "value": null
+        },
+        "availabilitySets_7222C_RG_OTI_DCE_CBR_GLOBALTHYCOTIC_T_AS01_externalid": {
+            "value": null
+        },
+        "vaults_KVOTIHQM0P002_externalid": {
+            "value": null
+        },
+        "disks_VMO7222TA001_externalid": {
+            "value": null
+        },
+        "disks_VMO7222TA001_DD_00_externalid": {
+            "value": null
+        },
+        "disks_VMO7222TA001_DD_01_externalid": {
+            "value": null
+        },
+        "networkInterfaces_VMO7222TA001_nic_externalid": {
+            "value": null
+        }
+    }
+}
